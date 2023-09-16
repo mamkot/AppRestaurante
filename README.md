@@ -33,7 +33,7 @@ Projeto desenvolvido como parte do 2° ano no curso de Desenvolvimento de Sistem
 * Após o download do template, verifique o diretório criado através do "dir" e acesse-o;
 * Ao entrar em "APP1', execute o aplicativo pela instrução: "ionic serve", que abrirá o navegador com a aplicação rodando;
 * Instale o editor de código-fonte "Visual Studio Code" e acesse a pasta "APP1";
-* Acesse os caminhos "APP1 > src > app > home" e comece a programas pelos arquivos "home.page.html", "home.page.ts" e "home.page.scss".
+* No VSCode, vá pelos caminhos "APP1 > src > app > home" e comece a programar pelos arquivos "home.page.html", "home.page.ts" e "home.page.scss".
 
 <h6>os arquivos:<p>
   
