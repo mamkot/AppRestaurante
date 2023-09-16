@@ -9,7 +9,7 @@ Projeto desenvolvido como parte do 2° ano no curso de Desenvolvimento de Sistem
 </h4>
 
 ## Descrição
-<p align=>
+<p align=>A proposta principal deste projeto é criar uma aplicação web para um restaurante que exibe informações sobre o cardápio do dia, incluindo o nome do prato principal, a entrada, a sobremesa, o preço e detalhes da data atual. O usuário pode clicar em um botão para buscar o prato do dia, e as informações são atualizadas dinamicamente com base na data do sistema.
 </p>
 
 ## Projeto
