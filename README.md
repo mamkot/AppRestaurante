@@ -14,7 +14,7 @@ Projeto desenvolvido como parte do 2° ano no curso de Desenvolvimento de Sistem
 
 ## Projeto
 
-
+https://github.com/mamkot/AppRestaurante/assets/102431539/6d57cc8c-27f5-4cdd-9eb2-ddd4c8750909
 
 ## Como executar o código (no Windows):
 
