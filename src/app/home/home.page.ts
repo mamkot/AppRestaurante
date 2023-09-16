@@ -28,7 +28,7 @@ export class HomePage {
 
   entr = ["Avocado grelhado", "Carpaccio de salmão", "Ceviche clássico", "Brusqueta de cogumelo", "Antepasto de berinjela de panela", "Rolinhos de couve", "Abóbora manteiga recheada com carne-seca"]
 
-  sobrem = ["Crème Brûlée", "Tiramisù", "Panna cotta de limão-siciliano", "Mousse de maracujá", "Salada de frutas", "Petit Gateau"]
+  sobrem = ["Crème Brûlée", "Tiramisù", "Panna cotta de limão-siciliano", "Mousse de maracujá", "Salada de frutas", "Petit Gateau", "Zabaglione"]
 
   precos = ["R$78,20", "R$62,85", "R$91,80", "R$68,80", "R$102,70", "R$85,60", "R$108,65"]
 
